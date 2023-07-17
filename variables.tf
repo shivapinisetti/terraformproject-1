@@ -36,3 +36,5 @@ variable "instance_type" {
     }
 }
 
+variable "fav_cricketer" {}
+variable "fav_Batsman"   {}
